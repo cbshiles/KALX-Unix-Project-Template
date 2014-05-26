@@ -1,0 +1,2 @@
+export ROOT=$(pwd)
+PATH=$PATH:$(ROOT)/bin
